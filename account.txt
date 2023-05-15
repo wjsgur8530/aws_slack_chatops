@@ -1,0 +1,18 @@
+def access_key():
+    access_key = [
+        '액세스키',
+    ]
+    secret_key = [
+        '시크릿키',
+    ]
+    return access_key, secret_key
+
+def slack_sdk_token():
+    bot_token = '슬랙봇토큰'
+    return bot_token
+
+def account_list():
+    account_list = [
+        '별칭',
+    ]
+    return account_list
